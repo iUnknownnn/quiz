@@ -90,7 +90,7 @@ void playQuiz(Question question[], int number_of_questions)
 int main()
 {
     int user_choice;
-    string path="txts\\pytania-quiz.txt";
+    string path="txts\\quiz.txt";
     fstream file;
     string line, content, a, b, c, d, correct;
     int questions=countQuestions(path);

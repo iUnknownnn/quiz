@@ -1,0 +1,18 @@
+Kto jest glownym bohaterem gry "Wiedzmin 3: Dziki Gon"?
+A. Vesemir
+B. Yennefer
+C. Geralt
+D. Jaskier
+c
+Ktory z tych jezykow jest jezykiem skryptowym?
+A. JavaScript
+B. C++
+C. HTML
+D. Python
+a
+Jaka kategoria prawa jazdy uprawnia do poruszania sie traktorami?
+A. Kategoria A
+B. Kategoria C+E
+C. Kategoria B+E
+D. Kategoria T
+d
