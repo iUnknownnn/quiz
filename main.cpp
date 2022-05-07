@@ -128,7 +128,8 @@ int main()
                 playQuiz(question, questions);
             break;
             case 3:
-                cout<<"Number of questions: "<<countQuestions(path)<<endl;
+                cout<<endl<<"Number of questions: "<<countQuestions(path)<<endl<<"Press any key to continue..."<<endl;
+                getch();
             break;
             case 0:
                 cout<<endl<<"Bye bye!"<<endl;
