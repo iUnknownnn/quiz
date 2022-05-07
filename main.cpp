@@ -44,6 +44,7 @@ void showMenu()
     cout<<"**************************************************"<<endl;
     cout<<"1. Start quiz"<<endl;
     cout<<"2. Add question"<<endl;
+    cout<<"3. Show number of questions"<<endl;
     cout<<"0. Quit"<<endl;
     cout<<endl<<"Your choice: ";
 }
